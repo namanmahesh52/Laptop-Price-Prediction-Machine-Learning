@@ -23,7 +23,7 @@ The aim of the "Laptop Price Prediction" Machine Learning project is to develop 
    - The best performing model was deployed using different libraries to create a simple web application or API where users can input the specifications of a laptop and get the predicted price.
    
  # 7. Results:
-   - The final model achieved [accuracy/precision/recall] of [value] on the test dataset, indicating its effectiveness in predicting laptop prices.
+   - The final model achieved precision of value on the test dataset, indicating its effectiveness in predicting laptop prices.
    
  # 8. Future Improvements:
    - Suggestions for future improvements may include collecting more diverse data, exploring advanced machine learning techniques, and enhancing the user interface of the deployed application.
